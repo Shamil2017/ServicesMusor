@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605946397421",
+    "project_id": "servicesmusor",
+    "storage_bucket": "servicesmusor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605946397421:android:fb281e2351b32cb26702e4",
+        "android_client_info": {
+          "package_name": "com.example.servicesmusor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-wKtE6SJipNShuYEdP11gcTo_doeceo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
